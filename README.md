@@ -1,0 +1,1 @@
+This repository contains an Ada program that demonstrates a common error in handling potential integer overflow during multiplication. The original code lacks exception handling, and the solution showcases how to improve it.
